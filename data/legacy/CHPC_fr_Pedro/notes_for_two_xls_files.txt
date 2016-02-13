@@ -1,0 +1,112 @@
+From: James Pappas <JPappas@chpc.net>
+Date: Wed, Jan 7, 2015 at 5:48 PM
+Subject: Re: Data for LA?
+To: Miriam Zuk <miriamzuk@gmail.com>
+
+Hi Miriam-
+
+I am attaching a bunch of spreadsheets with LA County affordable housing data as well as a few updates on the Bay Area data.
+
+Please make sure to credit us for providing you with this data in whatever final form this report takes and please don't share with others without checking with us first.
+
+The main difference between this data and what we had previously shared with you for the Bay Area is that I have not gone through to identify where multiple funding sources are combined on the same property. There is a lot of duplication of properties between different funding sources because building affordable housing requires multiple sources of subsidy. As a result, if you simply map every property in the spreadsheets you will be duplicating, often many times over, the same property and will throw off your count of units in any given area unless you find a way to only count properties and units once.
+
+The matching process I did for the Bay Area on data from HUD, LIHTC, and a few other programs was essentially done "by hand" sorting in excel by property name and address. Unfortunately, there is no numeric property ID that is the same for all agencies providing funding. However, HCD is working on a GIS database that will include all affordable properties in the state that will hopefully be able to link all properties by APN but I don't think it is anywhere near done. Addresses and project names are often slightly different among different funding sources so it can make finding matches difficult even when using databases.
+
+Here are my notes to explain the attached spreadsheets:
+
+20150107 CHPC LA County and Bay Area CalHFA Properties: This is new data we received on properties with funding from state affordable housing programs that the CalHFA administers. These include the Multifamily Housing Program (MHP) and Mental Health Services Act (MHSA) supportive housing funding. They are almost always combined with other funding sources like LIHTC but I thought I'd give them to you just in case. You will notice that the same property appears multiple times in the spreadsheet. Sometimes it may be because there was more than one program used on the same property, however, other times I'm not sure why the property is listed so many times. I'm also including this data for the Bay Are since I didn't have it when I did the inventory of affordable housing in the Bay Area in 2013.
+
+20150107 CHPC LA County and Bay Area HCD Properties: This is also new data we just received in the last few months on properties funded by HCD's programs. Again the HCD loans and grants are typically combined with other funding sources like LIHTC or HUD, but there may be properties funded solely with an HCD loan or grant. Like the CalHFA properties, there are many duplicates in this sheet though usually it is because there were multiple programs funding the same property. Also including this data for the Bay Are since I didn't have it when I did the inventory of affordable housing in the Bay Area last year.
+
+Let me know if you have questions. And if you find a fast and easy way to resolve the matching/de-duplicating issue please let me know!
+
+James
+
+James Pappas
+Housing Policy and Preservation Associate
+California Housing Partnership
+
+T: (415) 433-6804 x320 | jpappas@chpc.net
+369 Pine Street, Suite 300 | San Francisco, CA 94104
+www.chpc.net | @CHPCnews
+
+From: Miriam Zuk <miriamzuk@gmail.com>
+Date: Tuesday, December 16, 2014 4:52 PM
+
+To: James Pappas <jpappas@chpc.net>
+Subject: Re: Data for LA?
+
+We will be analyzing the data in the first few weeks of Jan.
+
+On Tue, Dec 16, 2014 at 4:05 PM, James Pappas <JPappas@chpc.net> wrote: 
+No- the HCD and CalHFA is just their grants or loans. However, again there would probably be substantial overlap with local sources, HUD, and LIHTC.
+
+We have heard that there may be information on local redevelopment funded properties that the state collected. That is something I need to follow up on. What are your timelines for integrating the data?
+
+James
+
+James Pappas
+Housing Policy and Preservation Associate
+California Housing Partnership
+
+T: (415) 433-6804 x320 | jpappas@chpc.net
+369 Pine Street, Suite 300 | San Francisco, CA 94104
+www.chpc.net | @CHPCnews
+
+From: Miriam Zuk <miriamzuk@gmail.com>
+Date: Tuesday, December 16, 2014 3:43 PM 
+
+To: James Pappas <jpappas@chpc.net>
+Subject: Re: Data for LA?
+
+Got it, thanks!  Yes, we added in public housing.  Will the HCD/CalHFA data have locally funded/redevelopment units?
+
+On Tue, Dec 16, 2014 at 3:32 PM, James Pappas <JPappas@chpc.net> wrote: 
+The Bay Area data was always missing public housing (we don't track that data) as well as any units funded purely with local sources – such as redevelopment dollars. Most of the time local and state money are combined with tax credits (LIHTC) or the older HUD funding so that what we gave you is probably capturing the vast majority of developments that also have HCD, CalHFA, and local dollars in them. However, the data we gave you is missing thousands of locally funded units- especially in San Francisco and maybe a few other cities that had major urban renewal programs or large public housing developments. I doubt the missing units would be more than 10-15,000 units around the Bay. Did you add in public housing units yourselves? If so I would put the missing locally funded units at under 10K…
+
+I will still need a few days to get the data to you so that I can think about what I'm sending and how to explain what needs to be done in terms of cleaning.
+
+James
+
+James Pappas
+Housing Policy and Preservation Associate
+California Housing Partnership
+
+T: (415) 433-6804 x320 | jpappas@chpc.net
+369 Pine Street, Suite 300 | San Francisco, CA 94104
+www.chpc.net | @CHPCnews
+
+From: Miriam Zuk <miriamzuk@gmail.com>
+Date: Tuesday, December 16, 2014 3:07 PM
+To: James Pappas <jpappas@chpc.net>
+Subject: Re: Data for LA?
+
+Awesome!  Could you send me what you have for LA now with an explanation of what needs to be done to clean it?  The UCLA team can do that work.  
+And yes, that would be great to get the additional data from HCD, CalHFA - does that mean that the data set you sent me for the Bay Area is missing units?  
+These guys love meetings...
+
+On Tue, Dec 16, 2014 at 3:03 PM, James Pappas <JPappas@chpc.net> wrote: 
+Yes we do have the same data though I don't have such a nice and tidy list where I have de-duplicated HUD and LIHTC properties where both funding sources were used. It would take me some time but I would be happy to do it. When would you need that data by? Also we have received data on HCD and CalHFA funding that I will be working with our database consultant to integrate over the next month or so. I could give you even more data if you could wait a bit.
+
+Carlos wrote me back and said he thought I should call in for the second part of the RPP meeting and I may do that- looks like I haven't escaped entirely.
+
+James
+
+James Pappas
+Housing Policy and Preservation Associate
+California Housing Partnership
+
+T: (415) 433-6804 x320 | jpappas@chpc.net
+369 Pine Street, Suite 300 | San Francisco, CA 94104
+www.chpc.net | @CHPCnews
+
+From: Miriam Zuk <miriamzuk@gmail.com>
+Date: Tuesday, December 16, 2014 2:39 PM
+To: James Pappas <jpappas@chpc.net>
+Subject: Data for LA?
+
+Hi James, 
+Does CHPC have data on affordable housing for Los Angeles County similar to the data you sent us for the Bay Area?
+I'm jealous that you get to skip the RPP meeting tomorrow - I'll be at MTC all day!!!  
+
