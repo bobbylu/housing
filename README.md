@@ -10,7 +10,7 @@ To build a comprehensive database of deed-restricted affordable housing projects
 
 At a minimum, we need to assign deed-restricted housing to parcels. 
 
-In addition, we would also like to know how many units are deed-restricted by parcel.
+In addition, we would also like to know how many units are deed-restricted by parcel. 
 
 ####Data Sources
 
